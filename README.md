@@ -1,2 +1,2 @@
 # SVM-Intro
-Using SVM to create a model for the digits dataset 
+Using SVM a scikit learn module for data science to create a model for the digits dataset 
